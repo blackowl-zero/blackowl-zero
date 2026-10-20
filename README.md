@@ -36,10 +36,13 @@ career_in_cyber/   offensive_security/   stay_curious/
 
 ## 🚀 Projects
 
-| Project | What it is | Stack |
-|---------|------------|-------|
-| [**bazouka**](https://github.com/blackowl-zero/bazouka) | BLE security research tool | Python |
-| [**starter-password-cli**](https://github.com/blackowl-zero/starter-password-cli) | Simple password CLI app, my first project in C | C |
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fblackowl-zero&query=%24.public_repos&label=public%20projects&style=for-the-badge&color=8a2be2&labelColor=1a1a1a" alt="public projects"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackowl-zero&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="top languages"/>
+
+</div>
 
 ## 🎯 Currently
 
