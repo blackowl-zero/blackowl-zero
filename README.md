@@ -38,7 +38,7 @@ career_in_cyber/   offensive_security/   stay_curious/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackowl-zero&custom_title=blackowl%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackowl-zero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackowl-zero&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=blackowl-zero&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak"/>
