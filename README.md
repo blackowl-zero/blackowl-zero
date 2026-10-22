@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f2a44&height=220&section=header&text=mr_fotis&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=%7B%20linux%20%7C%20c%20%7C%20python%20%7C%20security%20%7D&descAlignY=62&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f2a44&height=220&section=header&text=blackowl&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=%7B%20linux%20%7C%20c%20%7C%20python%20%7C%20security%20%7D&descAlignY=62&descSize=18&descColor=8b949e" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=%24+sudo+become+better;Learning+security+by+breaking+things+%28legally%29;C+%26+Python+%7C+Linux+all+day;Terminal+is+home+%F0%9F%90%A7)](https://github.com/blackowl-zero)
 
@@ -13,16 +13,16 @@
 ## 🐧 whoami
 
 ```bash
-fotis@linux:~$ whoami
-mr_fotis
+blackowl@linux:~$ whoami
+blackowl
 
-fotis@linux:~$ cat about.txt
+blackowl@linux:~$ cat about.txt
 Junior in cyber security & networks
 Curious about red teaming and low-level stuff
 Learning C the hard way, scripting everything in Python
 Building small tools, breaking them, then fixing them
 
-fotis@linux:~$ ls goals/
+blackowl@linux:~$ ls goals/
 career_in_cyber/   offensive_security/   stay_curious/
 ```
 
@@ -38,7 +38,7 @@ career_in_cyber/   offensive_security/   stay_curious/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackowl-zero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackowl-zero&custom_title=blackowl%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackowl-zero&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=blackowl-zero&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak"/>
