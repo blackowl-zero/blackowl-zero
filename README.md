@@ -34,13 +34,14 @@ career_in_cyber/   offensive_security/   stay_curious/
 
 </div>
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fblackowl-zero&query=%24.public_repos&label=public%20projects&style=for-the-badge&color=8a2be2&labelColor=1a1a1a" alt="public projects"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blackowl-zero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackowl-zero&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackowl-zero&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="top languages"/>
+<img src="https://streak-stats.demolab.com?user=blackowl-zero&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak"/>
 
 </div>
 
